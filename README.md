@@ -35,11 +35,6 @@ The primary goal of this project was to master and implement advanced animation 
 
 ---
 
-## ⚠️ Asset Disclaimer
-Please note that the 3D models used in this project were **purchased from a third-party marketplace**. The focus of this work was on the frontend development, animation, and integration of these assets, not on 3D modeling itself.
-
----
-
 ## 👨‍💻 Author
 **Siddhesh P Tupe**
 - GitHub: [@tupesiddhesh7000](https://github.com/tupesiddhesh7000 )
