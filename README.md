@@ -4,9 +4,10 @@ A visually immersive and interactive **personal portfolio website**, designed to
 
 ---
 
-
+<div align="center">
+    <h1>Potfolio Preview</h1>
 https://github.com/user-attachments/assets/c9b13835-8a71-4497-b7cb-42538c058dd4
-
+</div>
 
 
 
