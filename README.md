@@ -3,10 +3,13 @@
 A visually immersive and interactive **personal portfolio website**, designed to showcase projects and skills through a dynamic 3D experience. This project leverages advanced animation libraries to create an engaging user journey.
 
 ---
-<video src="images/projects/portfolio3d.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
----
+
+
+https://github.com/user-attachments/assets/c9b13835-8a71-4497-b7cb-42538c058dd4
+
+
+
+
 
 ## ⚙️ Core Technologies & Libraries
 - **HTML5**
