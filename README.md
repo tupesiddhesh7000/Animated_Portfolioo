@@ -5,7 +5,8 @@ A visually immersive and interactive **personal portfolio website**, designed to
 ---
 
 ## 🔗 Links
-- 🌐 **Live Demo:**![Portfolio 3D Preview](images/projects/portfolio3d.gif)
+- 🌐 **Live Demo:**<video src="images/projects/portfolio3d.mp4" width="100%" controls>
+</video>
 
 ---
 
